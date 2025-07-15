@@ -12,6 +12,14 @@
 
 ---
 
+## 🔬 Scope 
+
+I build interfaces around productivity & gaming, from analytics to collaborative platforms. 
+
+**🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
+
+---
+
 ## 🧮 Core Repositories
 
 <table>
