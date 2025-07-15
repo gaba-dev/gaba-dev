@@ -14,7 +14,7 @@
 
 ## 🔬 Scope 
 
-Ecosystems—from social networks to RPGs—have patterns that determine how they function. I build interfaces for productivity & gaming, from analytics to collaborative platforms.
+I build interfaces around productivity & gaming, from analytics to collaborative platforms. 
 
 **🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
 
