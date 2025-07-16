@@ -14,7 +14,7 @@
 
 ## 🔬 Scope 
 
-I build interfaces around productivity & gaming, from analytics to collaborative platforms. Next is a collection of projects I worked on for the past 2 years.
+I build interfaces around productivity & gaming, from analytics to collaborative platforms. Below is a collection of projects I worked on for the past 2 years.
 
 **🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
 
