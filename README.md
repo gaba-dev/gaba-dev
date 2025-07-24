@@ -129,15 +129,15 @@ Built web applications for enterprise clients • Led data management and UI/UX 
 **🚀 Software Engineer** | *Gabadev* | `2024 - Present`  
 Building gaming and productivity applications • Developing open source tools • Working on decentralized technology projects
 
-<div align="center">
-  <img src="assets/resume.png" alt="Resume" width="400px">
-</div>
-
 ---
 
 ## 🎓 **Education**
 
 **Bachelor of Computer Science** | *Luminy University* | Marseille, FR | `2015`
+
+<div align="center">
+  <img src="assets/resume.png" alt="Resume" width="400px">
+</div>
 
 ---
 
