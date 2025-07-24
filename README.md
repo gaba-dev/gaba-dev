@@ -120,10 +120,6 @@ const skills = {
 
 ## 💼 **Experience**
 
-<div align="center">
-  <img src="assets/resume.png" alt="Resume" width="400px">
-</div>
-
 **🌱 Junior Developer** | *Xdemat* | `2016 - 2019`  
 Developed web applications • Contributed to various client projects • Gained expertise in modern development workflows
 
@@ -132,6 +128,10 @@ Built web applications for enterprise clients • Led data management and UI/UX 
 
 **🚀 Software Engineer** | *Gabadev* | `2024 - Present`  
 Building gaming and productivity applications • Developing open source tools • Working on decentralized technology projects
+
+<div align="center">
+  <img src="assets/resume.png" alt="Resume" width="400px">
+</div>
 
 ---
 
