@@ -137,6 +137,13 @@ Building gaming and productivity applications • Developing open source tools �
 
 ---
 
+## 💻 **Resume**
+
+**Software & Web Development** | *Gaba - Sébastien Gimenez* | Montréal, QC | `2025`
+<img src="assets/resume.png" alt="resume" width="100%" style="display: block; margin: 0; padding: 0;">
+
+---
+
 ## 🌐 **Let's Connect**
 
 Open to collaborating, especially in gaming, productivity tools, or decentralized tech.
