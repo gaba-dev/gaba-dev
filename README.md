@@ -2,23 +2,6 @@
     
 # 🌌 Gaba || Sébastien Gimenez
 
-
-
-## 💻 **Tech Stack**
-
-```javascript
-const skills = {
-  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "Three.js"],
-  backend: ["Node.js", "Python", "Rust", "FastAPI", "Django"],
-  database: ["PostgreSQL", "MongoDB", "SQLite", "Redis"],
-  infrastructure: ["AWS", "Docker", "Git", "CI/CD"],
-  blockchain: ["Smart contracts", "IPFS", "Web3", "P2P"],
-  other: ["Unity", "Machine Learning", "Game Design", "System Architecture"]
-};
-```
-
----
-
 <table>
 <tr>
 <td align="center" width="50%">
@@ -113,6 +96,21 @@ https://metaforge.lol
 </td>
 </tr>
 </table>
+
+---
+
+## 💻 **Tech Stack**
+
+```javascript
+const skills = {
+  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS", "Three.js"],
+  backend: ["Node.js", "Python", "Rust", "FastAPI", "Django"],
+  database: ["PostgreSQL", "MongoDB", "SQLite", "Redis"],
+  infrastructure: ["AWS", "Docker", "Git", "CI/CD"],
+  blockchain: ["Smart contracts", "IPFS", "Web3", "P2P"],
+  other: ["Unity", "Machine Learning", "Game Design", "System Architecture"]
+};
+```
 
 ---
 
