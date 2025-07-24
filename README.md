@@ -2,9 +2,7 @@
     
 # 🌌 Gaba || Sébastien Gimenez
 
-<div style="width: 100%; height: 250px; overflow: hidden;">
-  <img src="assets/banner.png" alt="Banner" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-</div>
+<img src="assets/banner.png" alt="Banner" width="100%" style="display: block; margin: 0; padding: 0;">
  
 <table>
 <tr>
