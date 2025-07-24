@@ -135,6 +135,9 @@ Building gaming and productivity applications • Developing open source tools �
 
 **Bachelor of Computer Science** | *Luminy University* | Marseille, FR | `2015`
 
+**Software & Web Development** | *Gaba - Sébastien Gimenez* | Montréal, QC | `2025`
+<img src="assets/resume.png" alt="resume" width="400px" style="display: block; margin: 0 auto; padding: 0;">
+
 ---
 
 ## 🌐 **Let's Connect**
@@ -146,9 +149,5 @@ Open to collaborating, especially in gaming, productivity tools, or decentralize
 
 *Montréal, QC 🍁*
 
-**Software & Web Development** | *Gaba - Sébastien Gimenez* | Montréal, QC | `2025`
-<img src="assets/resume.png" alt="resume" width="100%" style="display: block; margin: 0; padding: 0;">
-
----
 
 </div>
