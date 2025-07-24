@@ -129,14 +129,15 @@ Built web applications for enterprise clients • Led data management and UI/UX 
 **🚀 Software Engineer** | *Gabadev* | `2024 - Present`  
 Building gaming and productivity applications • Developing open source tools • Working on decentralized technology projects
 
+<div align="center">
+  <img src="assets/resume.png" alt="Resume" width="400px">
+</div>
+
 ---
 
 ## 🎓 **Education**
 
 **Bachelor of Computer Science** | *Luminy University* | Marseille, FR | `2015`
-
-**Software & Web Development** | *Gaba - Sébastien Gimenez* | Montréal, QC | `2025`
-<img src="assets/resume.png" alt="resume" width="400px" style="display: block; margin: 0 auto; padding: 0;">
 
 ---
 
