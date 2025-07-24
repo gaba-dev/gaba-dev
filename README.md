@@ -2,7 +2,7 @@
     
 # 🌌 Gaba || Sébastien Gimenez
 
-<img src="assets/smallbanner.png" alt="Banner" width="100%" style="display: block; margin: 0; padding: 0;">
+
  
 <table>
 <tr>
@@ -31,6 +31,7 @@ https://metaforge.lol
 </tr>
 </table>
 
+<img src="assets/smallbanner.png" alt="Banner" width="100%" style="display: block; margin: 0; padding: 0;">
 ---
 
 ## 🛠️ **R&D Projects**
