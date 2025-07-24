@@ -33,7 +33,7 @@ https://metaforge.lol
 
 
 ---
-<img src="assets/smallbanner.png" alt="Banner" width="100%" style="display: block; margin: 0; padding: 0;">
+
 ## 🛠️ **R&D Projects**
 
 <table align="center">
