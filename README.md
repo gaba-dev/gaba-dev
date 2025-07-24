@@ -2,6 +2,10 @@
     
 # 🌌 Gaba || Sébastien Gimenez
 
+<div align="center">
+  <img src="assets/smallbanner.png" alt="Banner" width="800">
+</div>
+
 <table>
 <tr>
 <td align="center" width="50%">
