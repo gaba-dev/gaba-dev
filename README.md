@@ -6,6 +6,7 @@
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-0EA5E9?style=for-the-badge&logo=tensorflow&logoColor=white)]() 
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-6B46C1?style=for-the-badge&logo=apache&logoColor=white)]() 
 
+---
 
 ## 🔬 Scope 
 
