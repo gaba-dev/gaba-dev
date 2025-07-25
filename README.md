@@ -33,8 +33,6 @@ Building interfaces around productivity & gaming, currently developing analytics
 [![Prediction](https://img.shields.io/badge/Prediction-059669?style=for-the-badge&logo=target&logoColor=white)](https://github.com/gaba-dev-1/metaforge)
 [![Competitive](https://img.shields.io/badge/Competitive-DC2626?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/gaba-dev-1/metaforge)
 
-https://metaforge.lol
-
 **[[metaforge.lol](https://metaforge.lol)**
 
 </td>
