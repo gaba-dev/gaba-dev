@@ -35,7 +35,7 @@ Building interfaces around productivity & gaming, currently developing analytics
 
 https://metaforge.lol
 
-**Competitive platform** • *Collective forecasting vs data-driven analytics*
+**[[metaforge.lol](https://metaforge.lol)**
 
 </td>
 </tr>
