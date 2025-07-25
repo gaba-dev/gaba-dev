@@ -24,12 +24,16 @@ Building interfaces around productivity & gaming, currently developing analytics
 [![Showcase](https://img.shields.io/badge/Showcase-4C1D95?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/gaba-dev-1/gabadev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C2D12?style=for-the-badge&logo=network-wired&logoColor=white)](https://github.com/gaba-dev-1/gabadev)
 
+**Portfolio website** • *Showcasing projects & services*
+
 </td>
 <td align="center" width="50%">
 
 ### ⚔️ [Metaforge](https://metaforge.lol)
 [![Prediction](https://img.shields.io/badge/Prediction-059669?style=for-the-badge&logo=target&logoColor=white)](https://github.com/gaba-dev-1/metaforge)
 [![Competitive](https://img.shields.io/badge/Competitive-DC2626?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/gaba-dev-1/metaforge)
+
+**Competitive Platform** • *TeamFight Tactics tools & prediction market*
 
 </td>
 </tr>
