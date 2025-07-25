@@ -24,9 +24,7 @@ Building interfaces around productivity & gaming, currently developing analytics
 [![Showcase](https://img.shields.io/badge/Showcase-4C1D95?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/gaba-dev-1/gabadev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C2D12?style=for-the-badge&logo=network-wired&logoColor=white)](https://github.com/gaba-dev-1/gabadev)
 
-
-
-**[Showcasing projects](https://gabadev.com)**
+**[Website](https://gabadev.com)**
 
 </td>
 <td align="center" width="50%">
