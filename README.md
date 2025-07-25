@@ -8,8 +8,6 @@
 
 I build interfaces around productivity & gaming, currently developing analytics tools & collaborative platforms.
 
-**🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
-
 ---
 
 ## 🧮 Core Repositories
