@@ -10,6 +10,8 @@ I build interfaces around productivity & gaming, currently developing analytics 
 
 **🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
 
+</br>
+  
 ---
 
 ## 🧮 Core Repositories
