@@ -7,7 +7,7 @@
 [![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-0EA5E9?style=for-the-badge&logo=tensorflow&logoColor=white)]() 
 [![System Dynamics](https://img.shields.io/badge/System_Dynamics-6B46C1?style=for-the-badge&logo=apache&logoColor=white)]() 
 
-I build interfaces around productivity & gaming, currently developing analytics tools & collaborative platforms.
+Building interfaces around productivity & gaming, currently developing analytics tools & collaborative platforms.
 
 **🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
 
