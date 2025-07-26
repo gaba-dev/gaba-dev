@@ -10,9 +10,11 @@
 
 *Currently developing analytics tools & collaborative platforms.*
 
+</br>
+
 **🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
 
-</br>
+
   
 ---
 
