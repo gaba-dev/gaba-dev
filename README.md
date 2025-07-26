@@ -3,11 +3,6 @@
 # 🌌 Gaba || Sébastien Gimenez
  ### *Building interfaces for productivity & gaming.*
  
-[![Network Analysis](https://img.shields.io/badge/Network_Analysis-059669?style=for-the-badge&logo=graphql&logoColor=white)]() 
-[![Pattern Detection](https://img.shields.io/badge/Pattern_Detection-0EA5E9?style=for-the-badge&logo=tensorflow&logoColor=white)]() 
-[![System Dynamics](https://img.shields.io/badge/System_Dynamics-6B46C1?style=for-the-badge&logo=apache&logoColor=white)]() 
-
-  
 ---
 
 ## 🧮 Core Repositories
