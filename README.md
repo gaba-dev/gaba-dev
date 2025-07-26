@@ -14,7 +14,7 @@
 
 **🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
 
-
+</br>
   
 ---
 
