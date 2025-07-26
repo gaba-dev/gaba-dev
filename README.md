@@ -3,6 +3,8 @@
 # 🌌 Gaba || Sébastien Gimenez
  ### *Building interfaces for productivity & gaming.*
  
+**🔢 Foundation** → **🍄 Detection** → **⚡ Dynamics** → **🌳 Assessment** → **🕸️ Integration** → **🔍 Evolution**
+
 ---
 
 ## 🧮 Core Repositories
