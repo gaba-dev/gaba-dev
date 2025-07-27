@@ -39,30 +39,6 @@ https://metaforge.lol
 
 </td>
 </tr>
-<tr>
-<td align="center" width="50%">
-
-### 📅 [Dropdate](https://github.com/gaba-dev-1/dropdate)
-[![Calendar](https://img.shields.io/badge/Calendar-F59E0B?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/gaba-dev-1/dropdate)
-[![Gaming](https://img.shields.io/badge/Gaming-8B5CF6?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/gaba-dev-1/dropdate)
-
-https://dropdate.net
-
-**Gaming calendar** • *Tracking releases, events and community milestones*
-
-</td>
-<td align="center" width="50%">
-
-### 🧩 [Mosaïk](https://github.com/gaba-dev-1/mosaik)
-[![Productivity](https://img.shields.io/badge/Productivity-10B981?style=for-the-badge&logo=lightning-bolt&logoColor=white)](https://github.com/gaba-dev-1/mosaik)
-[![Adaptive](https://img.shields.io/badge/Adaptive-EC4899?style=for-the-badge&logo=cpu&logoColor=white)](https://github.com/gaba-dev-1/mosaik)
-
-https://mosaïk.com
-
-**Workspace organizer** • *Adapts to user workflows*
-
-</td>
-</tr>
 </table>
 
 ---
@@ -70,6 +46,30 @@ https://mosaïk.com
 ## 🛠️ **R&D Projects**
 
 <table align="center">
+<tr>
+<td align="center">
+
+### **[📅 Dropdate](https://github.com/gaba-dev-1/dropdate)**
+*Gaming calendar tracking releases, events and community milestones*
+
+**Tech:** Next.js • MongoDB • Node.js  
+**Focus:** Gaming • Calendar • Community
+
+<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/dropdate">GitHub</a> • <a href="https://dropdate.net">Website</a>
+
+</td>
+<td align="center">
+
+### **[🧩 Mosaïk](https://github.com/gaba-dev-1/mosaik)**
+*Adaptive workspace organizer that adapts to user workflows*
+
+**Tech:** Rust • Python • React • Tauri  
+**Focus:** Productivity • AI • Privacy
+
+<strong>Links:</strong> <a href="https://github.com/gaba-dev-1/mosaik">GitHub</a> • <a href="https://mosaïk.com">Website</a>
+
+</td>
+</tr>
 <tr>
 <td align="center">
 
