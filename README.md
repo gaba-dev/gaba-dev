@@ -135,7 +135,7 @@ Developed web applications • Contributed to various client projects • Gained
 Built web applications for enterprise clients • Led data management and UI/UX improvements • Implemented enterprise integration solutions
 
 **🚀 Software Engineer** | *Gabadev* | `2024 - Present`  
-Building gaming and productivity applications • Developing open source tools • Working on decentralized technology projects
+Building interfaces for productivity & gaming. Working on both open source projects and enterprise solutions.
 
 ---
 
